@@ -16,19 +16,6 @@ Blockchain
 
 ---
 
-# Prompt for This Scenario
-
-“Explain a complex technical concept such as Blockchain to a 10-year-old child using simple language, relatable examples, and fun storytelling.
-
-The response should include:
-
-1. Initial Prompt
-2. First AI Output
-3. At least 2 refined prompt iterations
-4. Improved AI outputs after each iteration
-5. Final polished explanation suitable for a child
-
-Avoid difficult technical words and make the explanation engaging and easy to remember.”
 
 ---
 
@@ -44,12 +31,7 @@ Blockchain is a technology that stores information in blocks connected together 
 
 ---
 
-# Issues in the First Output
 
-* Contains difficult words like “technology,” “secure,” and “cryptocurrencies.”
-* Sounds like a textbook definition.
-* Not interesting for a child.
-* No relatable examples.
 
 ---
 
@@ -69,14 +51,6 @@ Blockchain works like that shared notebook on the internet.
 
 ---
 
-# Improvements in Iteration 1
-
-* Easier vocabulary.
-* Real-life example included.
-* More understandable for children.
-* Still lacks excitement and storytelling.
-
----
 
 # Refined Prompt – Iteration 2
 
